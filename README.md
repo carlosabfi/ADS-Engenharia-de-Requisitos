@@ -1,12 +1,14 @@
 # ADS-Engenharia-de-Requisitos <br/>
 
-Artefato 15 Arquitetura de Negócio para cada Cenário: Projeto RB Pesquisa <br/>
-Artefato 16 DFD Essencial para cada Capacidade: Projeto RB Pesquisa <br/>
-Artefato 17 Análise dos Eventos para cada Cenário: Projeto RB Pesquisa <br/>
-Artefato 18 Descrição dos Processos de Negócio: Projeto RB Pesquisa <br/>
-Artefato 19 Regras de Negócio: Projeto RB Pesquisa <br/>
-Artefato 20 Modelo Conceitual de Negócio: Projeto RB Pesquisa <br/>
-Artefato 21 Análise do Ciclo de Vida: Projeto RB Pesquisa <br/>
+Projeto RB Pesquisa <br/>
+
+Artefato 15 Arquitetura de Negócio para cada Cenário <br/>
+Artefato 16 DFD Essencial para cada Capacidade <br/>
+Artefato 17 Análise dos Eventos para cada Cenário <br/>
+Artefato 18 Descrição dos Processos de Negócio <br/>
+Artefato 19 Regras de Negócio: <br/>
+Artefato 20 Modelo Conceitual de Negócio <br/>
+Artefato 21 Análise do Ciclo de Vida <br/>
 Artefato 22 Requisitos do Sistema SSS <br/>
 Artefato 23 Matriz de Rastreabilidade <br/>
 
