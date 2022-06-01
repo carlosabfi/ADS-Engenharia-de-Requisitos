@@ -7,8 +7,8 @@ Artefato 18 Descrição dos Processos de Negócio: Projeto RB Pesquisa <br/>
 Artefato 19 Regras de Negócio: Projeto RB Pesquisa <br/>
 Artefato 20 Modelo Conceitual de Negócio: Projeto RB Pesquisa <br/>
 Artefato 21 Análise do Ciclo de Vida: Projeto RB Pesquisa <br/>
-Artefato 22- Requisitos do Sistema SSS <br/>
-Artefato 23 - Matriz de Rastreabilidade <br/>
+Artefato 22 Requisitos do Sistema SSS <br/>
+Artefato 23 Matriz de Rastreabilidade <br/>
 
 Nome:					                    RA:     <br/>
 Carlos Alberto Bandeira Filho 	  2100396 <br/>
